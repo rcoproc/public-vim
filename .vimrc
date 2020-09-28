@@ -354,18 +354,9 @@ set smarttab
 set shiftwidth=2
 set softtabstop=2
 
-"set path =/Users/Ricardo/Documents/integragrp/tributario
-"set path+=/Users/Ricardo/Documents/RAILS/rails_rknet
 set path+=lib/**,spec/**
 set path+=**
 
-" set tags files
-"set tags =/Users/Ricardo/Documents/integragrp/tributario,tags;
-"set tags+=/Users/Ricardo/Documents/integragrp/vaf,tags;
-"set tags+=/Users/Ricardo/Documents/segmentus/vaf,tags;
-"set tags+=/Users/Ricardo/Documents/integragrp/pregao,tags;
-"set tags+=/Users/Ricardo/Documents/integragrp/vaf4/Composer,tags;
-"set tags+=/Users/Ricardo/Documents/integragrp/ISSIntel,tags;
 
 
 "set notagrelative
