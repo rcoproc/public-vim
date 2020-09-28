@@ -23,7 +23,6 @@ endif
 set undofile                    " Maintain undo history between sessions
 set colorcolumn=80              " Setup a line length in vim
 
-"set undodir="/Users/ricardo/.undodir"
 set noswapfile
 " ================ Indentation ======================
 
@@ -278,7 +277,7 @@ let g:go_metalinter_autosave = 1
 let g:go_metalinter_autosave_enabled = ['vet', 'golint']
 let g:go_metalinter_deadline = "5s"
 let g:go_auto_type_info = 1
-let g:github_user ="rcoproc"
+let g:github_user ="xpto"
 
 " deoplete-go settings
 let g:deoplete#sources#go#gocode_binary = '/home/ricardo/RCO_GO/bin/gocode'
